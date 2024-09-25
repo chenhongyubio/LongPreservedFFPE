@@ -7,7 +7,7 @@ library(RColorBrewer)
 library(tidyverse)
 library(Scillus)
 library(patchwork)
-library(rliger)
+library(SeuratWrappers)
 
 data_path <- "./Tumor_heterogeneity/raw_data/Matrix"
 
